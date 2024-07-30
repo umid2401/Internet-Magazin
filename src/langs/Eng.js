@@ -1,0 +1,15 @@
+export const engContent={
+    price:"Price",
+    title:"Title",
+    category:"Category",
+    description:"Description",
+    product:"Product",
+    navbar:"Online Shopping",
+    login:"Login & Register",
+    content:"Content",
+    new:"Newest",
+    best:"Best sales",
+    old:"Old sales",
+    low:"Low price",
+    high:"High price",
+}
